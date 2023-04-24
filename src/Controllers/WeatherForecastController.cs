@@ -1,5 +1,5 @@
-using ApiKeyAuthentication.Attributes;
 using ApiKeyAuthentication.Model;
+using ApiKeyAuthentication.Secure.Key.RestAPI.Strategy.Attributes;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiKeyAuthentication.Controllers

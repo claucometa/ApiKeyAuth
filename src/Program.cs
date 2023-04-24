@@ -1,4 +1,4 @@
-using ApiKeyAuthentication.Secure.Key.MinimalAPI;
+using ApiKeyAuth.Secure.AuthKey.MinimalAPI.Filter;
 using ApiKeyAuthentication.Secure.Key.RestAPI.Strategy.Attributes;
 using Microsoft.OpenApi.Models;
 

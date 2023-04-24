@@ -1,4 +1,4 @@
-﻿namespace ApiKeyAuthentication.Secure.Key.MinimalAPI
+﻿namespace ApiKeyAuth.Models
 {
     public class ApiKeyConfig
     {
