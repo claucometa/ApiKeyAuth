@@ -59,6 +59,6 @@ app.MapControllers();
 var group = app.MapGroup("WeatherForeCast");
 group.MapGet("mini/weather", () => WeatherService.GetWeather());
 group.MapGet("mini/weather/key", () => WeatherService.GetWeather())
-   .AddEndpointFilter<ApiKeyEndpointFilter>();
+     .AddEndpointFilter<ApiKeyEndpointFilter>();
 
 app.Run();
