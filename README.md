@@ -4,6 +4,6 @@ Secure API using Key
 
 - Rest API
   - Attributes 
-  - Middlewhare
+  - Middleware
 - Minimal API 
   - Filters
