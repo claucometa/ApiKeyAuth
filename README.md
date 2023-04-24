@@ -3,7 +3,7 @@
 Secure API using Key
 
 - Rest API
-  - Attributes 
+  - Attribute
   - Middleware
 - Minimal API 
   - EndpointFilter
