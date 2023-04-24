@@ -6,4 +6,4 @@ Secure API using Key
   - Attributes 
   - Middleware
 - Minimal API 
-  - Filters
+  - EndpointFilter
